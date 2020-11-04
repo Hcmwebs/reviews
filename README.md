@@ -1,4 +1,9 @@
-This is a review project. It belongs to a series of basic JS projects. Special thanks to
+This is a
+<a href="https://github.com/Hcmwebs/reviews.git" target="_blank" rel="noopener noreferrer">
+<strong>reviews</strong>
+
+</a>
+ project. It belongs to a series of basic JS projects. Special thanks to
 <a
 href="https://www.johnsmilga.com/projects"
 target="\_blank"
